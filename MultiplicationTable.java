@@ -1,7 +1,3 @@
-/**
- * Task 14: Display Multiplication Table
- * Problem: Using a loop, display the multiplication table of a given number.
- */
 public class MultiplicationTable {
     public static void main(String[] args) {
         int number = 7;
